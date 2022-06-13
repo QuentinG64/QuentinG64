@@ -1,6 +1,6 @@
 <h1 align="center">Hi I'm Quentin! 🤙</h1>
 <h3 align="center">Full Stack Web Dev, Engineer and Designer</h3>
-<h4 align="center">📚 https://codewithquentin.com/</h4>
+<h4 align="center"><a href="https://codewithquentin.com/" target="_blank" rel="noreferrer">📚 PORTFOLIO 📚</h4>
 <br>
 
 ![Profile views](https://gpvc.arturio.dev/QuentinG64)
