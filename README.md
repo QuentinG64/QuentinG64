@@ -1,5 +1,6 @@
 <h1 align="center">Hi I'm Quentin! 🤙</h1>
 <h3 align="center">Full Stack Web Dev, Engineer and Designer</h3>
+<h4 align="center">📚 https://codewithquentin.com/</h4>
 <br>
 
 ![Profile views](https://gpvc.arturio.dev/QuentinG64)
@@ -113,7 +114,6 @@
 ![](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)
 [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/QuentinG64?tab=repositories)
 
-<h4> 📚 Portfolio: https://codewithquentin.com/</h3>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/quentinG64/)
 
